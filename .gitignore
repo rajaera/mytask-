@@ -1,0 +1,5 @@
+mytaskdb.db
+build/
+dist/
+nbproject/
+sqlite/
